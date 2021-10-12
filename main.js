@@ -26,7 +26,7 @@ function uploadBackground() {
 }
 
 function uploadgreencar() {
-	ctx.drawImage(greencar_imgTag, greencar_x, greencar_y, greencar.width, greencar.height);
+	ctx.drawImage(greencar_imgTag, greencar_x, greencar_y, greencar_width, greencar_height);
 
 	
 }
